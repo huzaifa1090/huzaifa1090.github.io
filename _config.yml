@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: Muhammad-Huzaifaa
 gitlab_username: # your GitLab user name
-x_username: # huzaifa2k50
+x_username: huzaifa2k50
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: muhammad-huzaifa--
 telegram_username: # your Telegram user name
