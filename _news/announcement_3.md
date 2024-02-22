@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our two papers are accepted at CVPR-2023! Checkout our works: [Adapting CLIP for videos](https://muzairkhattak.github.io/ViFi-CLIP/) and [Multi-Modal Prompt Learning](https://muzairkhattak.github.io/multimodal-prompt-learning/)!
